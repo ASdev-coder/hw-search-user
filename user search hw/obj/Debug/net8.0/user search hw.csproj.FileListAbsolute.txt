@@ -1,0 +1,14 @@
+C:\Users\antsk\source\repos\user search hw\user search hw\bin\Debug\net8.0\user search hw.exe
+C:\Users\antsk\source\repos\user search hw\user search hw\bin\Debug\net8.0\user search hw.deps.json
+C:\Users\antsk\source\repos\user search hw\user search hw\bin\Debug\net8.0\user search hw.runtimeconfig.json
+C:\Users\antsk\source\repos\user search hw\user search hw\bin\Debug\net8.0\user search hw.dll
+C:\Users\antsk\source\repos\user search hw\user search hw\bin\Debug\net8.0\user search hw.pdb
+C:\Users\antsk\source\repos\user search hw\user search hw\obj\Debug\net8.0\user search hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antsk\source\repos\user search hw\user search hw\obj\Debug\net8.0\user search hw.AssemblyInfoInputs.cache
+C:\Users\antsk\source\repos\user search hw\user search hw\obj\Debug\net8.0\user search hw.AssemblyInfo.cs
+C:\Users\antsk\source\repos\user search hw\user search hw\obj\Debug\net8.0\user search hw.csproj.CoreCompileInputs.cache
+C:\Users\antsk\source\repos\user search hw\user search hw\obj\Debug\net8.0\user search hw.dll
+C:\Users\antsk\source\repos\user search hw\user search hw\obj\Debug\net8.0\refint\user search hw.dll
+C:\Users\antsk\source\repos\user search hw\user search hw\obj\Debug\net8.0\user search hw.pdb
+C:\Users\antsk\source\repos\user search hw\user search hw\obj\Debug\net8.0\user search hw.genruntimeconfig.cache
+C:\Users\antsk\source\repos\user search hw\user search hw\obj\Debug\net8.0\ref\user search hw.dll

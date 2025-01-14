@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("user search hw")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8140c637440dddc646c8e122d366d4213c1e61f")]
 [assembly: System.Reflection.AssemblyProductAttribute("user search hw")]
 [assembly: System.Reflection.AssemblyTitleAttribute("user search hw")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ C:\Users\antsk\source\repos\user search hw\user search hw\obj\Debug\net8.0\refin
 C:\Users\antsk\source\repos\user search hw\user search hw\obj\Debug\net8.0\user search hw.pdb
 C:\Users\antsk\source\repos\user search hw\user search hw\obj\Debug\net8.0\user search hw.genruntimeconfig.cache
 C:\Users\antsk\source\repos\user search hw\user search hw\obj\Debug\net8.0\ref\user search hw.dll
+C:\Users\antsk\source\repos\user search hw\user search hw\obj\Debug\net8.0\user search hw.sourcelink.json
